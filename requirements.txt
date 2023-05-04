@@ -1,0 +1,7 @@
+beautifulsoup4==4.11.1
+bitstring==4.0.2
+numpy==1.22.3
+pycryptodome==3.14.1
+reedsolo==1.7.0
+Requests==2.29.0
+selenium==4.9.0
